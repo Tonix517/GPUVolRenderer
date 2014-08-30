@@ -1,0 +1,30 @@
+1. solid mode - darker inside 
+
+========================
+
+--Geometry on nanostructure (no fields): Different shots and angles so that we can pick or two offline. (top, bottom, side, three quarters, two thirds)
+
+--Total Polarization magnitude distribution: Different shots and angles so that we can pick or two offline. (top, bottom, side, three quarters, two thirds)
+
+--Piezoelectric Polarization distribution: Different shots and angles so that we can pick or two offline. (top, bottom, side, three quarters, two thirds)
+
+--Dielectric Polarization distribution: Different shots and angles so that we can pick or two offline. (top, bottom, side, three quarters, two thirds)
+
+--Pyroelectric Polarization distribution: Different shots and angles so that we can pick or two offline. (top, bottom, side, three quarters, two thirds)
+
+--A video illustrating the E-field magnitude distribution in 3D.
+
+--E-field magnitude distribution with "cake" cut: Different shots and angles so that we can pick or two offline. (top, bottom, side, three quarters, two thirds)
+
+--Total Polarization magnitude distribution with "cake" cut: Different shots and angles so that we can pick or two offline. (top, bottom, side, three quarters, two thirds)
+
+--Piezoelectric Polarization distribution with "cake" cut: Different shots and angles so that we can pick or two offline. (top, bottom, side, three quarters, two thirds)
+
+--Dielectric Polarization distribution with "cake" cut: Different shots and angles so that we can pick or two offline. (top, bottom, side, three quarters, two thirds)
+
+--Pyroelectric Polarization distribution with "cake" cut : Different shots and angles so that we can pick or two offline. (top, bottom, side, three quarters, two thirds)
+
+Several snapshots are necessary of the highest resolution possible for each so that we can assemble the best paper possible.
+
+--A video illustrating the E-field magnitude distribution in 3D with "cake" cut.
+

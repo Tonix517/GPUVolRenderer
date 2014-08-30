@@ -1,0 +1,49 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_Vol_Renderer", "RenderT.vcproj", "{754BECFF-6062-4ABF-B743-4FAE27C3C463}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9DB75221-208E-4145-BBD0-203C3258DAB0} = {9DB75221-208E-4145-BBD0-203C3258DAB0}
+		{1C357D4B-8079-4449-86AD-664C0F607FAC} = {1C357D4B-8079-4449-86AD-664C0F607FAC}
+		{05AAE08C-73CC-4409-8308-15D37A019BF0} = {05AAE08C-73CC-4409-8308-15D37A019BF0}
+		{563518E4-C6D4-44A8-A125-C738299F2DFE} = {563518E4-C6D4-44A8-A125-C738299F2DFE}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glui", "glui\glui.vcproj", "{05AAE08C-73CC-4409-8308-15D37A019BF0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glm", "glm\glm.vcproj", "{563518E4-C6D4-44A8-A125-C738299F2DFE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataProcess", "DataProcess\DataProcess.vcproj", "{9DB75221-208E-4145-BBD0-203C3258DAB0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glee", "glee\glee.vcproj", "{1C357D4B-8079-4449-86AD-664C0F607FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754BECFF-6062-4ABF-B743-4FAE27C3C463}.Debug|Win32.ActiveCfg = Debug|Win32
+		{754BECFF-6062-4ABF-B743-4FAE27C3C463}.Debug|Win32.Build.0 = Debug|Win32
+		{754BECFF-6062-4ABF-B743-4FAE27C3C463}.Release|Win32.ActiveCfg = Release|Win32
+		{754BECFF-6062-4ABF-B743-4FAE27C3C463}.Release|Win32.Build.0 = Release|Win32
+		{05AAE08C-73CC-4409-8308-15D37A019BF0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{05AAE08C-73CC-4409-8308-15D37A019BF0}.Debug|Win32.Build.0 = Debug|Win32
+		{05AAE08C-73CC-4409-8308-15D37A019BF0}.Release|Win32.ActiveCfg = Release|Win32
+		{05AAE08C-73CC-4409-8308-15D37A019BF0}.Release|Win32.Build.0 = Release|Win32
+		{563518E4-C6D4-44A8-A125-C738299F2DFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{563518E4-C6D4-44A8-A125-C738299F2DFE}.Debug|Win32.Build.0 = Debug|Win32
+		{563518E4-C6D4-44A8-A125-C738299F2DFE}.Release|Win32.ActiveCfg = Release|Win32
+		{563518E4-C6D4-44A8-A125-C738299F2DFE}.Release|Win32.Build.0 = Release|Win32
+		{9DB75221-208E-4145-BBD0-203C3258DAB0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9DB75221-208E-4145-BBD0-203C3258DAB0}.Debug|Win32.Build.0 = Debug|Win32
+		{9DB75221-208E-4145-BBD0-203C3258DAB0}.Release|Win32.ActiveCfg = Release|Win32
+		{9DB75221-208E-4145-BBD0-203C3258DAB0}.Release|Win32.Build.0 = Release|Win32
+		{1C357D4B-8079-4449-86AD-664C0F607FAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1C357D4B-8079-4449-86AD-664C0F607FAC}.Debug|Win32.Build.0 = Debug|Win32
+		{1C357D4B-8079-4449-86AD-664C0F607FAC}.Release|Win32.ActiveCfg = Release|Win32
+		{1C357D4B-8079-4449-86AD-664C0F607FAC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
